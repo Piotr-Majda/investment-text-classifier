@@ -1,0 +1,21 @@
+text,risk_level,investment_horizon,action
+"Tech stocks are showing strong growth potential with the rise of AI. This sector could provide significant returns over the next 5 years, though there might be short-term volatility.",medium,long-term,buy
+"The market is showing signs of a potential correction. It might be wise to reduce exposure to high-risk assets in the short term.",high,short-term,sell
+"Government bonds are currently offering stable but modest returns. Good for safety-focused portfolios.",low,medium-term,hold
+"The cryptocurrency market is experiencing extreme volatility right now. Unless you have a high tolerance for risk, it's better to stay away.",high,short-term,ignore
+"Blue-chip stocks are currently trading at fair valuations and offer reliable dividend yields. They're suitable for long-term investors seeking stable growth.",low,long-term,buy
+"Emerging market funds show promising growth potential but come with higher volatility. Consider a small allocation for diversification.",medium,medium-term,buy
+"The real estate sector is showing signs of overvaluation in many regions. It might be prudent to reduce exposure until prices stabilize.",medium,medium-term,sell
+"Gold has been trending upward as a hedge against inflation. Consider maintaining a small position as part of a diversified portfolio.",low,medium-term,hold
+"Small-cap stocks are priced attractively after the recent market downturn. They offer good growth potential but require patience.",medium,long-term,buy
+"The energy sector faces significant regulatory challenges and shifting consumer preferences. Proceed with caution in this space.",high,short-term,ignore
+"Dividend aristocrats continue to increase their payouts despite economic uncertainties. They offer a reliable income stream for conservative investors.",low,long-term,buy
+"High-yield corporate bonds offer attractive returns but face increased default risk in the current economic climate.",medium,short-term,hold
+"The technology bubble appears to be expanding rapidly. Consider taking profits on overvalued positions.",high,short-term,sell
+"Index funds tracking the broader market offer a straightforward way to participate in long-term economic growth with minimal effort.",low,long-term,buy
+"Meme stocks are driven primarily by social media sentiment rather than fundamentals. Avoid unless you're comfortable with pure speculation.",high,short-term,ignore
+"Infrastructure investments should benefit from increased government spending in the coming years. Consider positions in related sectors.",medium,long-term,buy
+"The automotive industry is undergoing significant transformation toward electric vehicles. Traditional manufacturers may struggle to adapt.",medium,medium-term,sell
+"Treasury Inflation-Protected Securities (TIPS) provide protection against rising inflation. They're suitable for preserving purchasing power.",low,medium-term,hold
+"Biotech stocks offer breakthrough potential but face significant regulatory hurdles and research failures. Only suitable for risk-tolerant investors.",high,long-term,hold
+"ESG (Environmental, Social, Governance) focused investments align with growing consumer and regulatory preferences. They offer sustainable long-term growth potential.",medium,long-term,buy

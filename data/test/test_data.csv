@@ -1,0 +1,11 @@
+text,risk_level,investment_horizon,action
+"Cloud computing companies continue to show strong revenue growth as businesses accelerate digital transformation. Consider for long-term growth portfolios.",medium,long-term,buy
+"The central bank's hawkish stance suggests further interest rate increases. This may put pressure on growth stocks in the near term.",high,short-term,sell
+"Green bonds fund environmentally beneficial projects while providing stable returns similar to traditional bonds. Good for ESG-focused investors.",low,medium-term,buy
+"The retail sector is experiencing a significant shift toward e-commerce. Traditional retailers without strong online strategies may underperform.",medium,medium-term,sell
+"Utilities offer attractive dividend yields and stable cash flows. They can provide portfolio stability during market turbulence.",low,long-term,hold
+"The social media space is facing increasing regulatory scrutiny and potential changes to data privacy laws. Proceed with caution.",high,medium-term,ignore
+"Healthcare REITs benefit from demographic trends and the aging population. They offer both income and growth potential.",medium,long-term,buy
+"Global supply chain disruptions are impacting manufacturing companies. Consider reducing exposure until conditions normalize.",high,short-term,sell
+"Short-term government bonds offer safety with modest returns in the current rate environment. Suitable for conservative investors.",low,short-term,hold
+"Artificial intelligence startups offer disruptive potential but face significant competition from established tech giants. Only for risk-tolerant investors.",high,long-term,buy

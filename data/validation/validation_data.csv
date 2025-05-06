@@ -1,0 +1,11 @@
+text,risk_level,investment_horizon,action
+"The pharmaceutical sector is showing promise with several new drugs in late-stage trials. Consider allocating a portion of your portfolio for potential growth.",medium,medium-term,buy
+"Current market volatility suggests a defensive approach. Consider moving some assets to cash or stable-value investments temporarily.",high,short-term,sell
+"Municipal bonds are offering tax advantages that make them attractive for higher-income investors. They provide modest but reliable returns.",low,medium-term,buy
+"The fast-fashion industry faces sustainability challenges and changing consumer preferences. Companies without clear adaptation strategies may struggle.",medium,medium-term,sell
+"Value stocks are currently trading at historically low P/E ratios compared to growth stocks. This presents a potentially good entry point for long-term investors.",low,long-term,buy
+"The commercial real estate market, particularly office space, is facing structural challenges due to remote work trends. Approach with caution.",high,medium-term,ignore
+"Dividend ETFs provide diversified income streams with lower risk than individual stocks. Good option for income-focused investors.",low,long-term,buy
+"The semiconductor industry is experiencing supply constraints while demand remains strong. Companies in this sector may see continued growth.",medium,medium-term,buy
+"NFTs and digital collectibles are highly speculative assets with uncertain long-term value. Only consider with money you can afford to lose completely.",high,short-term,ignore
+"Consumer staples tend to perform relatively well during economic downturns. They offer stability in uncertain times.",low,medium-term,hold
